@@ -1,4 +1,4 @@
-# <p align=center> Collection of graphics </p>
+# <p align=center> Mandala </p>
 
 It is simply a mandala realized in C++
 
