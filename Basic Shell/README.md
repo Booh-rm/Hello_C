@@ -10,7 +10,7 @@
 <p align=center> I/O redirection: I/O redirection allows us to change the source or destination of the standard input or output of the command we are executing. This is useful when we want to save the output of a command to a file instead of seeing it on the screen, or when we want to give input to a command from a file instead of typing it manually. To do this, the following symbols can be used: </p>
    
 <div align="center">
-​
+
  Option | Meaning |
 | --- | --- |
 | `>` | To redirect the standard output to a file and overwrite its contents. |
@@ -29,7 +29,7 @@ sleep 60 & </p>
 <p align=center> Interpreter commands </p>
 
 <div align="center">
-​
+
  Option | Meaning |
 | --- | --- |
 | `cd directory>` | changes the current directory to *directory*. If the *directory* argument does not appear, returns the current directory. |
