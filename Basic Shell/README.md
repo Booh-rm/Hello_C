@@ -5,6 +5,8 @@
 
 <p align=center> The interpreter is a tool that allows us to execute commands in our UNIX operating system. These commands can be simple, such as displaying the contents of a file, or more complex, such as executing a program. The following describes the basic concepts and commands needed to use the interpreter. </p>
 
+---
+
 <p align=center> Basic concepts </p>
 
 <p align=center> I/O redirection: I/O redirection allows us to change the source or destination of the standard input or output of the command we are executing. This is useful when we want to save the output of a command to a file instead of seeing it on the screen, or when we want to give input to a command from a file instead of typing it manually. To do this, the following symbols can be used: </p>
